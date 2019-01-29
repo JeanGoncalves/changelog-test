@@ -1,3 +1,17 @@
+# [1.0.0](https://github.com/JeanGoncalves/changelog-test/compare/v0.3.4...v1.0.0) (2019-01-29)
+
+
+### Features
+
+* configurado gulp do changelog para não ler o arquivo changelog ([1c0d4aa](https://github.com/JeanGoncalves/changelog-test/commit/1c0d4aa))
+
+
+### Reverts
+
+* blablabla revert ([ee7fe61](https://github.com/JeanGoncalves/changelog-test/commit/ee7fe61))
+
+
+
 ## [0.3.4](https://github.com/JeanGoncalves/changelog-test/compare/v0.3.3...v0.3.4) (2019-01-29)
 
 
