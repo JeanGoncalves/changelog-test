@@ -4,7 +4,10 @@
   "description": "Project to test package changelog",
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-conventional-changelog": "^2.0.9"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
