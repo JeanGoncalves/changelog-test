@@ -4,11 +4,11 @@ const fs = require('fs');
 
 gulp.task('changelog', function () {
     return gulp.src('CHANGELOG.md', {
-        read: false
+        buffer: false
     })
       .pipe(conventionalChangelog({
         preset: 'angular',
-        releaseCOunt: 0
+        releaseCount: 0
       }))
       .pipe(gulp.dest('./'));
   });
