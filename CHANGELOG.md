@@ -1,3 +1,13 @@
+## [1.0.1](https://github.com/JeanGoncalves/changelog-test/compare/v1.0.0...v1.0.1) (2019-01-29)
+
+
+### Features
+
+* removido apenas arquivos necessarios ([2dc3bee](https://github.com/JeanGoncalves/changelog-test/commit/2dc3bee))
+* removido todos os itens ([5af3d94](https://github.com/JeanGoncalves/changelog-test/commit/5af3d94))
+
+
+
 # [1.0.0](https://github.com/JeanGoncalves/changelog-test/compare/v0.3.4...v1.0.0) (2019-01-29)
 
 
