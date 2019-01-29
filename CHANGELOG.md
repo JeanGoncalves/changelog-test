@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/JeanGoncalves/changelog-test/compare/v0.3.0...v0.3.1) (2019-01-29)
+
+
+### Bug Fixes
+
+* include new item in list ([4da64ae](https://github.com/JeanGoncalves/changelog-test/commit/4da64ae))
+
+
+
 # [0.3.0](https://github.com/JeanGoncalves/changelog-test/compare/v0.2.1...v0.3.0) (2019-01-29)
 
 
