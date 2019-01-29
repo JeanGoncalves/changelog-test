@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/JeanGoncalves/changelog-test/compare/v1.0.1...v2.0.0) (2019-01-29)
+
+
+### Features
+
+* **nova feature:** foi resolvido os problemas necessarios ([0da56a7](https://github.com/JeanGoncalves/changelog-test/commit/0da56a7))
+* **package.json:** alterado script de commit do npm ([2a8b110](https://github.com/JeanGoncalves/changelog-test/commit/2a8b110))
+
+
+### BREAKING CHANGES
+
+* **nova feature:** test
+
+
+
 ## [1.0.1](https://github.com/JeanGoncalves/changelog-test/compare/v1.0.0...v1.0.1) (2019-01-29)
 
 
