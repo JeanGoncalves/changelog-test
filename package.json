@@ -1,0 +1,21 @@
+{
+  "name": "changelog-test",
+  "version": "0.1.0",
+  "description": "Project to test package changelog",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanGoncalves/changelog-test.git"
+  },
+  "author": "Jean Gonçalves <jeanfpgoncalves@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanGoncalves/changelog-test/issues"
+  },
+  "homepage": "https://github.com/JeanGoncalves/changelog-test#readme"
+}
