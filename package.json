@@ -9,7 +9,8 @@
     "gulp-conventional-changelog": "^2.0.9"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "changelog": "gulp changelog"
   },
   "repository": {
     "type": "git",
