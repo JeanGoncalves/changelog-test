@@ -4,7 +4,8 @@ const fs = require('fs');
 
 gulp.task('changelog', function () {
     return gulp.src('CHANGELOG.md', {
-        buffer: false
+        buffer: false,
+        read: false
     })
       .pipe(conventionalChangelog({
         preset: 'angular',
