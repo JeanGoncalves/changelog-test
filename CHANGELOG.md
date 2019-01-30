@@ -1,3 +1,21 @@
+## [2.0.3](https://github.com/JeanGoncalves/changelog-test/compare/v2.0.2...v2.0.3) (2019-01-30)
+
+
+
+## [2.0.2](https://github.com/JeanGoncalves/changelog-test/compare/v2.0.1...v2.0.2) (2019-01-30)
+
+
+### Features
+
+* **OSLO-123:** test ([7b368d2](https://github.com/JeanGoncalves/changelog-test/commit/7b368d2)), closes [#123](https://github.com/JeanGoncalves/changelog-test/issues/123)
+
+
+### BREAKING CHANGES
+
+* **OSLO-123:** blablab
+
+
+
 ## [2.0.1](https://github.com/JeanGoncalves/changelog-test/compare/v2.0.0...v2.0.1) (2019-01-30)
 
 
