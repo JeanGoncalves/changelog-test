@@ -17,7 +17,10 @@
 ## Descrition of auto
  ### Select the type of change that you're committing
  _Selecione o tipo de alteração que você está cometendo_
- - feat:     A new feature
+ <details>
+ <summary>feat:     A new feature</summary>
+ - feat:     Um novo recurso
+ </details>
  - fix:      A bug fix
  - docs:     Documentation only changes
  - style:    Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
