@@ -1,3 +1,12 @@
+## [2.0.1](https://github.com/JeanGoncalves/changelog-test/compare/v2.0.0...v2.0.1) (2019-01-30)
+
+
+### Features
+
+* **OSLO-123:** teste upper-case ([5962b56](https://github.com/JeanGoncalves/changelog-test/commit/5962b56))
+
+
+
 # [2.0.0](https://github.com/JeanGoncalves/changelog-test/compare/v1.0.1...v2.0.0) (2019-01-29)
 
 
