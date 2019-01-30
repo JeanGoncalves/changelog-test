@@ -19,47 +19,58 @@
  _Selecione o tipo de alteração que você está cometendo_
  <details>
  <summary>feat: A new feature</summary>
-`Um novo recurso`
+ <p>`Um novo recurso`</p>
+
  </details>
  <details>
  <summary>fix: A bug fix</summary>
-`Uma correção de bug`
+ <p>`Uma correção de bug`</p>
+
  </details>
  <details>
  <summary>docs: Documentation only changes</summary>
-`Muda apenas documentação`
+ <p>`Muda apenas documentação`</p>
+
  </details>
  <details>
  <summary>style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)</summary>
-`Alterações que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula ausente, etc)`
+ <p>`Alterações que não afetam o significado do código (espaço em branco, formatação, ponto e vírgula ausente, etc)`</p>
+
  </details>
  <details>
  <summary>refactor: A code change that neither fixes a bug nor adds a feature</summary>
-`Uma alteração de código que não corrige um bug nem adiciona um recurso`
+ <p>`Uma alteração de código que não corrige um bug nem adiciona um recurso`</p>
+
  </details>
  <details>
  <summary>perf: A code change that improves performance</summary>
-`Uma mudança de código que melhora o desempenho`
+ <p>`Uma mudança de código que melhora o desempenho`</p>
+
  </details>
  <details>
  <summary>test: Adding missing tests or correcting existing tests</summary>
-`Adicionando testes ausentes ou corrigindo testes existentes`
+ <p>`Adicionando testes ausentes ou corrigindo testes existentes`</p>
+
  </details>
  <details>
  <summary>build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)</summary>
-`Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm)`
+ <p>`Alterações que afetam o sistema de construção ou dependências externas (escopos de exemplo: gulp, broccoli, npm)`</p>
+
  </details>
  <details>
  <summary>ci: Changes to our CI configuration files and scripts (example scopes: Travis, Circle, BrowserStack, SauceLabs)</summary>
-`Alterações em nossos arquivos e scripts de configuração de IC (escopos de exemplo: Travis, Circle, BrowserStack, SauceLabs)`
+ <p>`Alterações em nossos arquivos e scripts de configuração de IC (escopos de exemplo: Travis, Circle, BrowserStack, SauceLabs)`</p>
+
  </details>
  <details>
  <summary>chore: Other changes that don't modify src or test files</summary>
-`Outras alterações que não modificam arquivos src ou de teste`
+ <p>`Outras alterações que não modificam arquivos src ou de teste`</p>
+
  </details>
  <details>
  <summary>revert: Reverts a previous commit</summary>
-`Reverte um commit anterior`
+ <p>`Reverte um commit anterior`</p>
+
  </details>
 
 ### What is the scope of this change (e.g. component or file name)? (press enter to skip)
